@@ -1,7 +1,7 @@
 ## Bem-vindo ao meu perfil
 
--Meu nome é Luiz Daniel
+- Meu nome é Luiz Daniel
 
--Sou estudante da Alura
+- Sou estudante da Alura
 
--Estou me desenvolvendo na linguagem JavaScript
+- Estou me desenvolvendo na linguagem JavaScript
